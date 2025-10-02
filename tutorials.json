@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Alpha Tutorial",
+    "location": "Hall A",
+    "fee": "₦0",
+    "type": "free",
+    "days": "Mon–Fri",
+    "time": "4–6pm",
+    "subjects": ["Math", "English", "Chemistry"]
+  },
+  {
+    "name": "Beta Tutorial",
+    "location": "Hall B",
+    "fee": "₦2000",
+    "type": "paid",
+    "days": "Tue–Thu",
+    "time": "3–5pm",
+    "subjects": ["Biology", "Physics"]
+  },
+  {
+    "name": "Gamma Tutorial",
+    "location": "Online (Zoom)",
+    "fee": "₦500",
+    "type": "paid",
+    "days": "Sat–Sun",
+    "time": "10am–12pm",
+    "subjects": ["Literature", "Government"]
+  }
+]
