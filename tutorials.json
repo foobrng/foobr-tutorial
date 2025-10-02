@@ -17,6 +17,24 @@
     "time": "3–5pm",
     "subjects": ["Biology", "Physics"]
   },
+   {
+    "name": "Beta Tutorial",
+    "location": "Hall B",
+    "fee": "₦2000",
+    "type": "paid",
+    "days": "Tue–Thu",
+    "time": "3–5pm",
+    "subjects": ["Biology", "Physics"]
+  },
+   {
+    "name": "Beta Tutorial",
+    "location": "Hall B",
+    "fee": "₦2000",
+    "type": "paid",
+    "days": "Tue–Thu",
+    "time": "3–5pm",
+    "subjects": ["Biology", "Physics"]
+  },
   {
     "name": "Gamma Tutorial",
     "location": "Online (Zoom)",
