@@ -1,38 +1,38 @@
 [
   {
-    "name": "Alpha Tutorial",
-    "location": "Hall A",
-    "fee": "₦0",
-    "type": "free",
+    "name": "Zenith Tutorial",
+    "location": "Adenike area Mobonike Complex",
+    "fee": "₦20,000",
+    "type": "paid",
     "days": "Mon–Fri",
     "time": "4–6pm",
-    "subjects": ["Math", "English", "Chemistry"]
+    "subjects": ["MTH 101", "ENG 101", "CHM 101"]
   },
   
   {
-    "name": "Beta Tutorial",
-    "location": "Hall B",
-    "fee": "₦2000",
-    "type": "paid",
+    "name": "MSSN Tutorial",
+    "location": "Lautech Mosque Area",
+    "fee": "free",
+    "type": "free",
     "days": "Tue–Thu",
     "time": "3–5pm",
     "subjects": ["Biology", "Physics"]
   },
   
    {
-    "name": "yuuua Tutorial",
-    "location": "Hall B",
-    "fee": "₦2000",
-    "type": "paid",
+    "name": "RCF Tutorial",
+    "location": "The Redeemed Fellowship, UnderG area",
+    "fee": "free",
+    "type": "free",
     "days": "Tue–Thu",
     "time": "3–5pm",
     "subjects": ["Biology", "Physics"]
   },
   
    {
-    "name": "koleta Tutorial",
-    "location": "Hall B",
-    "fee": "₦2000",
+    "name": "Simeon's Tutorial",
+    "location": "Redemption Camp, Mowe",
+    "fee": "₦20,000",
     "type": "paid",
     "days": "Tue–Thu",
     "time": "3–5pm",
