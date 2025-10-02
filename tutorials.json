@@ -8,6 +8,7 @@
     "time": "4–6pm",
     "subjects": ["Math", "English", "Chemistry"]
   },
+  
   {
     "name": "Beta Tutorial",
     "location": "Hall B",
@@ -17,8 +18,9 @@
     "time": "3–5pm",
     "subjects": ["Biology", "Physics"]
   },
+  
    {
-    "name": "Beta Tutorial",
+    "name": "yuuua Tutorial",
     "location": "Hall B",
     "fee": "₦2000",
     "type": "paid",
@@ -26,8 +28,9 @@
     "time": "3–5pm",
     "subjects": ["Biology", "Physics"]
   },
+  
    {
-    "name": "Beta Tutorial",
+    "name": "koleta Tutorial",
     "location": "Hall B",
     "fee": "₦2000",
     "type": "paid",
@@ -35,6 +38,7 @@
     "time": "3–5pm",
     "subjects": ["Biology", "Physics"]
   },
+  
   {
     "name": "Gamma Tutorial",
     "location": "Online (Zoom)",
